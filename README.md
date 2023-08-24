@@ -13,6 +13,8 @@ This project involves creating a basic calculator using the ATmega32 microcontro
 2. Simulate the circuit to interact with the virtual keypad and LCD.
 3. Follow the on-screen instructions to input numbers and perform calculations.
 
+![image](https://github.com/ahmedali724/Simple-Calculator/assets/111287464/51e90912-6176-4990-a471-0f996ad12fc4)
+
 ## Code Structure
 - **main.c**: The main program file containing the calculator logic and user interface.
 - **LCD_config.h**, **LCD_interface.h** and **LCD_program.c**: LCD driver for initializing and controlling the 16x2 LCD display.
